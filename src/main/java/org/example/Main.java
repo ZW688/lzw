@@ -7,5 +7,6 @@ public class Main {
         System.out.println("First Commit");
         System.out.println("branch on dev");
         System.out.println("master");
+        System.out.println("dev merge");
     }
 }
